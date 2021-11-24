@@ -1,0 +1,14 @@
+ball
+right_foot
+head
+right_hand
+left_foot
+left_hand
+right_knee
+left_knee
+right_shoulder
+left_shoulder
+right_hip
+left_hip
+right_elbow
+left_elbow
